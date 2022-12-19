@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="fon">fon.jpg</file>
+        <file alias="child">vitaminy-dlja-rosta-rebenka.jpg</file>
+    </qresource>
+</RCC>
